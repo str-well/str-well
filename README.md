@@ -7,9 +7,9 @@ Sou **Engenheiro de Software** apaixonado por tecnologia e inovação. Atualment
 ### 🚀 Sobre mim
 
 - 💻 Engenheiro de Software na **M23 Studio Tecnologia e Marketing LTDA** e na **STR Well Consultoria**.
-- 📚 Bacharelando em **Ciência da Computação** pela Universidade Anhembi Morumbi.
+- 📚 Bacharelando em **Ciência da Computação** pela Universidade Anhembi Morumbi e FEI.
 - 🌟 Estudando novas tecnologias com foco em inovação.
-- 🔍 Experiência com **React, TypeScript, Python, Node.js, PostgreSQL e Docker**.
+- 🔍 Expert em **React, TypeScript, Node.js, PostgreSQL...**
 - 🎯 Interesse em desenvolvimento full stack e arquitetura de software.
 
 ---
@@ -39,10 +39,15 @@ Sou **Engenheiro de Software** apaixonado por tecnologia e inovação. Atualment
 ### 🌟 Projetos em Destaque
 
 - 🏗 **[CotaHub](https://github.com/str-well/cotahub)**: Plataforma para criação, edição e gestão de orçamentos de forma eficiente e automatizada.
-- 🎮 **[Landing Page Furia CS](https://github.com/str-well/furia-landing)**: Plataforma interativa para fãs acompanharem o time de CS da Furia.
-- 🏨 **[Sistema de Filtragem de Hotéis](https://github.com/str-well/hotel-filter)**: Implementação de filtros avançados para busca de hotéis com base em disponibilidade, estrelas e comodidades.
-- 🚌 **[Filtragem de Passagens de Ônibus](https://github.com/str-well/onibus-filtro)**: Sistema de busca inteligente para passagens de ônibus baseado em diferentes critérios.
-
+- 🏨 **[Destino Ferias](https://www.instagram.com/destinoferias_br/)**: Plataforma de viagens, aluguel de carro, reserva de hotel e passeios.
+- 🚘 **[Flamingo Locações](https://www.instagram.com/flamingoservice/)**: Plataforma de aluguel de tratores.
+- 🍷 **[GRAPY Garrafeira](https://www.grapy.com.br/)**: E-commerce de vinhos/garrafeira.
+- 🏗️ **[Diverbras](https://www.diverbras.com.br/)**: Fornecedor de máquinas de diversão.
+- 🛄 **[HealthCare Contabilidade](https://www.instagram.com/health.carecontabilidade/)**: Aplicativo para gestão de contabilidade para médicos.
+- 🍷 **[ProWine São Paulo](https://prowinesaopaulo.com/)**: Site institucional sobre a feira ProWine São Paulo.
+- ⛏️ **[Brasmin](https://brasmin.com.br/)**: Site institucional sobre a feira Brasmin.
+- 🤝 **[Emme Brasil](https://emmebrasil.com.br/)**: Site institucional sobre a organizadora de eventos Emme Brasil.
+- ⚽ **[SoccerexRio](https://www.instagram.com/soccerexrio)**: Site institucional sobre a feira Soccerex edição Rio de Janeiro.
 ---
 
 ### 📬 Entre em Contato
