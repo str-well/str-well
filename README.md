@@ -6,7 +6,7 @@ Sou **Engenheiro de Software** apaixonado por tecnologia e inovação. Atualment
 
 ### 🚀 Sobre mim
 
-- 💻 Engenheiro de Software na **M23 Studio Tecnologia e Marketing LTDA** e na **STR Well Consultoria**.
+- 💻 Desenvolvedor FullStack na **MadeiraMadeira** e na **STR Well Consultoria**.
 - 📚 Bacharelando em **Ciência da Computação** pela Universidade Anhembi Morumbi e FEI.
 - 🌟 Estudando novas tecnologias com foco em inovação.
 - 🔍 Expert em **React, TypeScript, Node.js, PostgreSQL...**
