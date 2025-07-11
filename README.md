@@ -1,6 +1,6 @@
 ### 👋 Olá, eu sou Wellington Felix Sousa Bezerra!
 
-Sou **Engenheiro de Software** apaixonado por tecnologia e inovação. Atualmente, trabalho na **MadeiraMadeiraA** e na **STR Well Consultoria**, atuando no desenvolvimento de soluções full stack e consultoria de TI para grandes empresas e projetos.
+Sou **Engenheiro de Software** apaixonado por tecnologia e inovação. Atualmente, trabalho na **MadeiraMadeira** e na **STR Well Consultoria**, atuando no desenvolvimento de soluções full stack e consultoria de TI para grandes empresas e projetos.
 
 ---
 
