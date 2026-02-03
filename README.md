@@ -31,8 +31,9 @@ Sou **Engenheiro de Software** apaixonado por tecnologia e inovação. Atualment
 
 ### 📊 GitHub Stats
 
-![Wellington's GitHub Stats](https://github-readme-stats.vercel.app/api?username=str-well&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=str-well&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=str-well&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=str-well&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=str-well&layout=compact&theme=tokyonight)
 
 ---
 
